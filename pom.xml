@@ -36,6 +36,13 @@
             </exclusions>
         </dependency>
 
+        <!-- fastJSON -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
         <!-- docker-java依赖 -->
         <dependency>
             <groupId>com.github.docker-java</groupId>
